@@ -38,6 +38,19 @@
       "BestSeller":true
     }
   ],
+
+  "Books":[
+    {
+      "id": 1,
+      "name":"Atomic Habits",
+      "price":300,
+      "discription":{
+        "author":"abx",
+        "about": "pqr"
+      }
+    }
+  ],
+
   "carousel":[
     {
       "id":1,
