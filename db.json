@@ -15,7 +15,7 @@
     },
     {
       "id": 3,
-      "name": "tablet",
+      "name": "Tablet",
       "link": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/2-800x451.jpg",
       "BestSeller":false
     },
@@ -38,15 +38,47 @@
       "BestSeller":true
     }
   ],
+  "Mobile":[
+    {
+      "id": 1,
+      "name":"RedMi Note 11",
+      "price":15000,
+      "link":"https://i02.appmifile.com/429_operator_in/07/04/2022/ab9969f0cc2cab0e3067a47eb2f4b299.jpg",
+      "discription":{
+        "brand":"RedMi",
+        "Android Version":"11.0.2"
+      }
+    }
+  ],
+  "Laptop":[
+
+  ],
+  "Tablet":[
+
+  ],
+  "Head Phone":[
+
+  ],
 
   "Books":[
     {
       "id": 1,
       "name":"Atomic Habits",
       "price":300,
+      "link":"http://cdn.shopify.com/s/files/1/0584/4667/6158/products/atomichabits.png?v=1626257128",
       "discription":{
-        "author":"abx",
-        "about": "pqr"
+        "author":"James Clear",
+        "Language":"English"
+      }
+    },
+    {
+      "id": 2,
+      "name":"Ikigai",
+      "price":200,
+      "link":"https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
+      "discription":{
+        "Publisher":"Cornerstone",
+        "Language":"English"
       }
     }
   ],
