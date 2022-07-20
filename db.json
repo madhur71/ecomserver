@@ -15,7 +15,7 @@
     },
     {
       "id": 3,
-      "name": "Tablet",
+      "name": "tablet",
       "link": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/2-800x451.jpg",
       "BestSeller":false
     },
@@ -36,18 +36,6 @@
       "name": "Books",
       "link": "https://www.changinghands.com/sites/changinghands.com/files/teenbundle.jpg",
       "BestSeller":true
-    }
-  ],
-  "Mobile":[
-    {
-      "id": 1,
-      "name":"RedMi Note 11",
-      "price":15000,
-      "link":"https://i02.appmifile.com/429_operator_in/07/04/2022/ab9969f0cc2cab0e3067a47eb2f4b299.jpg",
-      "discription":{
-        "brand":"RedMi",
-        "Android Version":"11.0.2"
-      }
     }
   ],
 
