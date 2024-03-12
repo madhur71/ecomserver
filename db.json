@@ -22,7 +22,7 @@
     {
       "id": 4,
       "name": "Head Phone",
-      "link": "https://m.media-amazon.com/images/I/51xxA+6E+xL._SX522_.jpg",
+      "link": "https://m.media-amazon.com/images/I/31QB73-5IEL._SX300_SY300_QL70_FMwebp_.jpg",
       "BestSeller":false
     },
     {
@@ -39,12 +39,13 @@
     }
   ],
 
-  "Books":[
+  "productDetails":[
     {
       "id": 1,
       "name":"Atomic Habits",
       "price":300,
-      "link":"http://cdn.shopify.com/s/files/1/0584/4667/6158/products/atomichabits.png?v=1626257128",
+      "category":"Books",
+      "link":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FAtomic-Habits-James-Clear%2Fdp%2F1847941834&psig=AOvVaw1QUzGtmoJzlWppEBpdpbyb&ust=1710342285754000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDlkdT_7oQDFQAAAAAdAAAAABAE",
       "discription":{
         "author":"James Clear",
         "Language":"English"
@@ -54,6 +55,117 @@
       "id": 2,
       "name":"Ikigai",
       "price":200,
+      "category":"Books",
+      "link":"https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
+      "discription":{
+        "Publisher":"Cornerstone",
+        "Language":"English"
+      }
+    },
+    {
+      "id": 3,
+      "name":"Atomic Habits",
+      "price":300,
+      "category":"Mobile",
+      "link":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FAtomic-Habits-James-Clear%2Fdp%2F1847941834&psig=AOvVaw1QUzGtmoJzlWppEBpdpbyb&ust=1710342285754000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDlkdT_7oQDFQAAAAAdAAAAABAE",
+      "discription":{
+        "author":"James Clear",
+        "Language":"English"
+      }
+    },
+    {
+      "id": 4,
+      "name":"Ikigai",
+      "price":200,
+      "category":"Mobile",
+      "link":"https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
+      "discription":{
+        "Publisher":"Cornerstone",
+        "Language":"English"
+      }
+    },
+    {
+      "id": 5,
+      "name":"Atomic Habits",
+      "price":300,
+      "category":"Laptop",
+      "link":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FAtomic-Habits-James-Clear%2Fdp%2F1847941834&psig=AOvVaw1QUzGtmoJzlWppEBpdpbyb&ust=1710342285754000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDlkdT_7oQDFQAAAAAdAAAAABAE",
+      "discription":{
+        "author":"James Clear",
+        "Language":"English"
+      }
+    },
+    {
+      "id": 6,
+      "name":"Ikigai",
+      "price":200,
+      "category":"Laptop",
+      "link":"https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
+      "discription":{
+        "Publisher":"Cornerstone",
+        "Language":"English"
+      }
+    },
+    {
+      "id": 7,
+      "name":"Ikigai",
+      "price":200,
+      "category":"watch",
+      "link":"https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
+      "discription":{
+        "Publisher":"Cornerstone",
+        "Language":"English"
+      }
+    },
+    {
+      "id": 8,
+      "name":"Ikigai",
+      "price":200,
+      "category":"watch",
+      "link":"https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
+      "discription":{
+        "Publisher":"Cornerstone",
+        "Language":"English"
+      }
+    },
+    {
+      "id": 9,
+      "name":"Ikigai",
+      "price":200,
+      "category":"tablet",
+      "link":"https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
+      "discription":{
+        "Publisher":"Cornerstone",
+        "Language":"English"
+      }
+    },
+    {
+      "id": 10,
+      "name":"Ikigai",
+      "price":200,
+      "category":"tablet",
+      "link":"https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
+      "discription":{
+        "Publisher":"Cornerstone",
+        "Language":"English"
+      }
+    },
+    {
+      "id": 11,
+      "name":"Ikigai",
+      "price":200,
+      "category":"Head_Phone",
+      "link":"https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
+      "discription":{
+        "Publisher":"Cornerstone",
+        "Language":"English"
+      }
+    },
+    {
+      "id": 12,
+      "name":"Ikigai",
+      "price":200,
+      "category":"Head_Phone",
       "link":"https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
       "discription":{
         "Publisher":"Cornerstone",
