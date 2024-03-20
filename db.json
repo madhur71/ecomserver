@@ -89,24 +89,25 @@
     },
     {
       "id": 5,
-      "name":"Atomic Habits",
+      "name":"Dell Vostro 3405",
       "price":300,
       "category":"Laptop",
-      "link":"https://www.ajayonlinestall.com/wp-content/uploads/2021/02/9781847941831.png",
+      "link":"https://cdn.lowestrate.in/20220829143454/71kOOXPupBL._SL1500_.jpg",
       "discription":{
-        "author":"James Clear",
-        "Language":"English"
+        "Processor":"AMD Ryzen 5",
+        "OS":"Windows 7"
       }
     },
     {
       "id": 6,
-      "name":"Ikigai",
+      "name":"HP 15S du2058TU",
       "price":200,
       "category":"Laptop",
-      "link":"https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
+      "link":"https://www.digitaldreamsjaipur.com/wp-content/uploads/2020/07/hp-laptop-15s-du2058tu-1.jpg",
       "discription":{
-        "Publisher":"Cornerstone",
-        "Language":"English"
+        "Processor":"i3 8th Gen",
+        "OS":"Windows 10",
+        "Screen":"Anti Glare"
       }
     },
     {
