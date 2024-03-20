@@ -197,7 +197,8 @@
   ],
   "ProductReview":[
     {
-      "id":3,
+      "id":1,
+      "productDetailsId":3,
       "review": [
         {"review":"Good","userName":"Rohit","stars":4},
         {"review":"Not Good","userName":"Abhisheck","stars":2},
