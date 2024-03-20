@@ -198,12 +198,52 @@
   "ProductReview":[
     {
       "id":1,
-      "productDetailsId":3,
-      "review": [
-        {"review":"Good","userName":"Rohit","stars":4},
-        {"review":"Not Good","userName":"Abhisheck","stars":2},
-        {"review":"Awesome","userName":"Pranali","stars":5}
-      ]
+      "productDetailId": 3,
+      "review": "Good",
+      "rating":3,
+      "userName":"Madhur"
+    },
+    {
+      "id":2,
+      "productDetailId": 4,
+      "review": "Good",
+      "rating":3,
+      "userName":"Madhur"
+    },
+    {
+      "id":3,
+      "productDetailId": 1,
+      "review": "Good",
+      "rating":3,
+      "userName":"Madhur"
+    },
+    {
+      "id":4,
+      "productDetailId": 3,
+      "review": "Awesome Product",
+      "rating":5,
+      "userName":"Madhur"
+    },
+    {
+      "id":5,
+      "productDetailId": 3,
+      "review": "Bad Mobile",
+      "rating":1,
+      "userName":"Madhur"
+    },
+    {
+      "id":6,
+      "productDetailId": 5,
+      "review": "Good",
+      "rating":3,
+      "userName":"Madhur"
+    },
+    {
+      "id":7,
+      "productDetailId": 1,
+      "review": "Good",
+      "rating":3,
+      "userName":"Madhur"
     }
   ]
 }
