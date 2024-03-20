@@ -194,5 +194,15 @@
       "link": "https://energycentral.com/system/files/styles/original_webp/private/ece/nodes/91/ecj-hero-image-1920x480.jpg?itok=kNHSxwWY",
       "img" : "https://gumlet.assettype.com/freepressjournal/2021-07/e572e1bc-67bf-45fd-b267-866b1e8b9bed/Timex.png"
     }
+  ],
+  "ProductReview":[
+    {
+      "id":3,
+      "review": [
+        {"review":"Good","userName":"Rohit","stars":4},
+        {"review":"Not Good","userName":"Abhisheck","stars":2},
+        {"review":"Awesome","userName":"Pranali","stars":5}
+      ]
+    }
   ]
 }
