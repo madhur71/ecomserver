@@ -46,6 +46,7 @@
       "price":300,
       "category":"Books",
       "link":"https://www.ajayonlinestall.com/wp-content/uploads/2021/02/9781847941831.png",
+      "BestSeller":true,
       "discription":{
         "author":"James Clear",
         "Language":"English"
@@ -54,6 +55,7 @@
     {
       "id": 2,
       "name":"Ikigai",
+      "BestSeller":false,
       "price":200,
       "category":"Books",
       "link":"https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
@@ -67,6 +69,7 @@
       "name":"Motorola edge 40 neo",
       "price":25000,
       "category":"Mobile",
+      "BestSeller":true,
       "link":"https://motorolain.vtexassets.com/arquivos/ids/158550-800-auto?width=800&height=auto&aspect=true",
       "discription":{
         "RAM":"8GB",
@@ -79,6 +82,7 @@
       "name":"Redmi Note 13 Pro",
       "price":200,
       "category":"Mobile",
+      "BestSeller":false,
       "link":"https://i.gadgets360cdn.com/products/large/redminote13pro-800x800-1695378563.png",
       "discription":{
         "RAM":"8GB",
@@ -92,6 +96,7 @@
       "name":"Dell Vostro 3405",
       "price":300,
       "category":"Laptop",
+      "BestSeller":true,
       "link":"https://cdn.lowestrate.in/20220829143454/71kOOXPupBL._SL1500_.jpg",
       "discription":{
         "Processor":"AMD Ryzen 5",
@@ -103,6 +108,7 @@
       "name":"HP 15S du2058TU",
       "price":200,
       "category":"Laptop",
+      "BestSeller":false,
       "link":"https://www.digitaldreamsjaipur.com/wp-content/uploads/2020/07/hp-laptop-15s-du2058tu-1.jpg",
       "discription":{
         "Processor":"i3 8th Gen",
@@ -115,6 +121,7 @@
       "name":"Ikigai",
       "price":200,
       "category":"watch",
+      "BestSeller":true,
       "link":"https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
       "discription":{
         "Publisher":"Cornerstone",
@@ -126,6 +133,7 @@
       "name":"Ikigai",
       "price":200,
       "category":"watch",
+      "BestSeller":false,
       "link":"https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
       "discription":{
         "Publisher":"Cornerstone",
@@ -136,6 +144,7 @@
       "id": 9,
       "name":"Ikigai",
       "price":200,
+      "BestSeller":true,
       "category":"tablet",
       "link":"https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
       "discription":{
@@ -148,6 +157,7 @@
       "name":"Ikigai",
       "price":200,
       "category":"tablet",
+      "BestSeller":false,
       "link":"https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
       "discription":{
         "Publisher":"Cornerstone",
@@ -159,6 +169,7 @@
       "name":"Ikigai",
       "price":200,
       "category":"Head_Phone",
+      "BestSeller":true,
       "link":"https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
       "discription":{
         "Publisher":"Cornerstone",
@@ -170,6 +181,7 @@
       "name":"Ikigai",
       "price":200,
       "category":"Head_Phone",
+      "BestSeller":false,
       "link":"https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
       "discription":{
         "Publisher":"Cornerstone",
