@@ -2,12 +2,14 @@
   "products": [
     {
       "id": 1,
+      "productDetailId": 1,
       "name": "Mobile",
       "link": "https://i02.appmifile.com/429_operator_in/07/04/2022/ab9969f0cc2cab0e3067a47eb2f4b299.jpg",
       "BestSeller":true
     },
     {
       "id": 2,
+      "productDetailId": 3,
       "name": "Laptop",
       "link": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/13-3320/media-gallery/peripherals_laptop_latitude_3320_gallery_1.psd?fmt=pjpg&pscan=auto&scl=1&wid=3337&hei=2417&qlt=100,0&resMode=sharp2&size=3337,2417",
       "BestSeller":true
@@ -16,23 +18,27 @@
     {
       "id": 3,
       "name": "tablet",
+      "productDetailId": 5,
       "link": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/2-800x451.jpg",
       "BestSeller":false
     },
     {
       "id": 4,
+      "productDetailId": 7,
       "name": "Head Phone",
       "link": "https://m.media-amazon.com/images/I/31QB73-5IEL._SX300_SY300_QL70_FMwebp_.jpg",
       "BestSeller":false
     },
     {
       "id": 5,
+      "productDetailId": 9,
       "name": "watch",
       "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOUWp2teH_tEzOdLXffvthzkmClUtSA2OUnA&usqp=CAU",
       "BestSeller":true
     },
     {
       "id": 6,
+      "productDetailId": 11,
       "name": "Books",
       "link": "https://www.changinghands.com/sites/changinghands.com/files/teenbundle.jpg",
       "BestSeller":true
@@ -42,6 +48,7 @@
   "productDetails":[
     {
       "id": 1,
+      "productId":1,
       "name":"Atomic Habits",
       "price":300,
       "category":"Books",
@@ -54,6 +61,7 @@
     },
     {
       "id": 2,
+      "productId":1,
       "name":"Ikigai",
       "BestSeller":false,
       "price":200,
@@ -66,6 +74,7 @@
     },
     {
       "id": 3,
+      "productId":2,
       "name":"Motorola edge 40 neo",
       "price":25000,
       "category":"Mobile",
@@ -79,6 +88,7 @@
     },
     {
       "id": 4,
+      "productId":2,
       "name":"Redmi Note 13 Pro",
       "price":200,
       "category":"Mobile",
@@ -93,6 +103,7 @@
     },
     {
       "id": 5,
+      "productId":3,
       "name":"Dell Vostro 3405",
       "price":300,
       "category":"Laptop",
@@ -105,6 +116,7 @@
     },
     {
       "id": 6,
+      "productId":3,
       "name":"HP 15S du2058TU",
       "price":200,
       "category":"Laptop",
@@ -118,6 +130,7 @@
     },
     {
       "id": 7,
+      "productId":4,
       "name":"Ikigai",
       "price":200,
       "category":"watch",
@@ -130,6 +143,7 @@
     },
     {
       "id": 8,
+      "productId":4,
       "name":"Ikigai",
       "price":200,
       "category":"watch",
@@ -142,6 +156,7 @@
     },
     {
       "id": 9,
+      "productId":5,
       "name":"Ikigai",
       "price":200,
       "BestSeller":true,
@@ -154,6 +169,7 @@
     },
     {
       "id": 10,
+      "productId":5,
       "name":"Ikigai",
       "price":200,
       "category":"tablet",
@@ -166,6 +182,7 @@
     },
     {
       "id": 11,
+      "productId":6,
       "name":"Ikigai",
       "price":200,
       "category":"Head_Phone",
@@ -178,6 +195,7 @@
     },
     {
       "id": 12,
+      "productId":6,
       "name":"Ikigai",
       "price":200,
       "category":"Head_Phone",
