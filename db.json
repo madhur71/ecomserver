@@ -5,275 +5,302 @@
       "productDetailId": 1,
       "name": "Mobile",
       "link": "https://i02.appmifile.com/429_operator_in/07/04/2022/ab9969f0cc2cab0e3067a47eb2f4b299.jpg",
-      "BestSeller":true
+      "BestSeller": true
     },
     {
       "id": 2,
       "productDetailId": 3,
       "name": "Laptop",
       "link": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/13-3320/media-gallery/peripherals_laptop_latitude_3320_gallery_1.psd?fmt=pjpg&pscan=auto&scl=1&wid=3337&hei=2417&qlt=100,0&resMode=sharp2&size=3337,2417",
-      "BestSeller":true
-  
+      "BestSeller": true
     },
     {
       "id": 3,
       "name": "tablet",
       "productDetailId": 5,
       "link": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/2-800x451.jpg",
-      "BestSeller":false
+      "BestSeller": false
     },
     {
       "id": 4,
       "productDetailId": 7,
       "name": "Head Phone",
       "link": "https://m.media-amazon.com/images/I/31QB73-5IEL._SX300_SY300_QL70_FMwebp_.jpg",
-      "BestSeller":false
+      "BestSeller": false
     },
     {
       "id": 5,
       "productDetailId": 9,
       "name": "watch",
       "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOUWp2teH_tEzOdLXffvthzkmClUtSA2OUnA&usqp=CAU",
-      "BestSeller":true
+      "BestSeller": true
     },
     {
       "id": 6,
       "productDetailId": 11,
       "name": "Books",
       "link": "https://www.changinghands.com/sites/changinghands.com/files/teenbundle.jpg",
-      "BestSeller":true
+      "BestSeller": true
     }
   ],
-
-  "productDetails":[
+  "productDetails": [
     {
       "id": 1,
-      "productId":1,
-      "name":"Atomic Habits",
-      "price":300,
-      "category":"Books",
-      "link":"https://www.ajayonlinestall.com/wp-content/uploads/2021/02/9781847941831.png",
-      "BestSeller":true,
-      "discription":{
-        "author":"James Clear",
-        "Language":"English"
+      "productId": 1,
+      "name": "Atomic Habits",
+      "price": 300,
+      "category": "Books",
+      "link": "https://www.ajayonlinestall.com/wp-content/uploads/2021/02/9781847941831.png",
+      "BestSeller": true,
+      "discription": {
+        "author": "James Clear",
+        "Language": "English"
       }
     },
     {
       "id": 2,
-      "productId":1,
-      "name":"Ikigai",
-      "BestSeller":false,
-      "price":200,
-      "category":"Books",
-      "link":"https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
-      "discription":{
-        "Publisher":"Cornerstone",
-        "Language":"English"
+      "productId": 1,
+      "name": "Ikigai",
+      "BestSeller": false,
+      "price": 200,
+      "category": "Books",
+      "link": "https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
+      "discription": {
+        "Publisher": "Cornerstone",
+        "Language": "English"
       }
     },
     {
       "id": 3,
-      "productId":2,
-      "name":"Motorola edge 40 neo",
-      "price":25000,
-      "category":"Mobile",
-      "BestSeller":true,
-      "link":"https://motorolain.vtexassets.com/arquivos/ids/158550-800-auto?width=800&height=auto&aspect=true",
-      "discription":{
-        "RAM":"8GB",
-        "Battery":"6000mAH",
-        "Camera":"50mpx"
+      "productId": 2,
+      "name": "Motorola edge 40 neo",
+      "price": 25000,
+      "category": "Mobile",
+      "BestSeller": true,
+      "link": "https://motorolain.vtexassets.com/arquivos/ids/158550-800-auto?width=800&height=auto&aspect=true",
+      "discription": {
+        "RAM": "8GB",
+        "Battery": "6000mAH",
+        "Camera": "50mpx"
       }
     },
     {
       "id": 4,
-      "productId":2,
-      "name":"Redmi Note 13 Pro",
-      "price":200,
-      "category":"Mobile",
-      "BestSeller":false,
-      "link":"https://i.gadgets360cdn.com/products/large/redminote13pro-800x800-1695378563.png",
-      "discription":{
-        "RAM":"8GB",
-        "Battery":"6000mAH",
-        "Camera":"50mpx",
-        "Processor":"SnapDragon"
+      "productId": 2,
+      "name": "Redmi Note 13 Pro",
+      "price": 200,
+      "category": "Mobile",
+      "BestSeller": false,
+      "link": "https://i.gadgets360cdn.com/products/large/redminote13pro-800x800-1695378563.png",
+      "discription": {
+        "RAM": "8GB",
+        "Battery": "6000mAH",
+        "Camera": "50mpx",
+        "Processor": "SnapDragon"
       }
     },
     {
       "id": 5,
-      "productId":3,
-      "name":"Dell Vostro 3405",
-      "price":300,
-      "category":"Laptop",
-      "BestSeller":true,
-      "link":"https://cdn.lowestrate.in/20220829143454/71kOOXPupBL._SL1500_.jpg",
-      "discription":{
-        "Processor":"AMD Ryzen 5",
-        "OS":"Windows 7"
+      "productId": 3,
+      "name": "Dell Vostro 3405",
+      "price": 300,
+      "category": "Laptop",
+      "BestSeller": true,
+      "link": "https://cdn.lowestrate.in/20220829143454/71kOOXPupBL._SL1500_.jpg",
+      "discription": {
+        "Processor": "AMD Ryzen 5",
+        "OS": "Windows 7"
       }
     },
     {
       "id": 6,
-      "productId":3,
-      "name":"HP 15S du2058TU",
-      "price":200,
-      "category":"Laptop",
-      "BestSeller":false,
-      "link":"https://www.digitaldreamsjaipur.com/wp-content/uploads/2020/07/hp-laptop-15s-du2058tu-1.jpg",
-      "discription":{
-        "Processor":"i3 8th Gen",
-        "OS":"Windows 10",
-        "Screen":"Anti Glare"
+      "productId": 3,
+      "name": "HP 15S du2058TU",
+      "price": 200,
+      "category": "Laptop",
+      "BestSeller": false,
+      "link": "https://www.digitaldreamsjaipur.com/wp-content/uploads/2020/07/hp-laptop-15s-du2058tu-1.jpg",
+      "discription": {
+        "Processor": "i3 8th Gen",
+        "OS": "Windows 10",
+        "Screen": "Anti Glare"
       }
     },
     {
       "id": 7,
-      "productId":4,
-      "name":"Ikigai",
-      "price":200,
-      "category":"watch",
-      "BestSeller":true,
-      "link":"https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
-      "discription":{
-        "Publisher":"Cornerstone",
-        "Language":"English"
+      "productId": 4,
+      "name": "Ikigai",
+      "price": 200,
+      "category": "watch",
+      "BestSeller": true,
+      "link": "https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
+      "discription": {
+        "Publisher": "Cornerstone",
+        "Language": "English"
       }
     },
     {
       "id": 8,
-      "productId":4,
-      "name":"Ikigai",
-      "price":200,
-      "category":"watch",
-      "BestSeller":false,
-      "link":"https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
-      "discription":{
-        "Publisher":"Cornerstone",
-        "Language":"English"
+      "productId": 4,
+      "name": "Ikigai",
+      "price": 200,
+      "category": "watch",
+      "BestSeller": false,
+      "link": "https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
+      "discription": {
+        "Publisher": "Cornerstone",
+        "Language": "English"
       }
     },
     {
       "id": 9,
-      "productId":5,
-      "name":"Ikigai",
-      "price":200,
-      "BestSeller":true,
-      "category":"tablet",
-      "link":"https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
-      "discription":{
-        "Publisher":"Cornerstone",
-        "Language":"English"
+      "productId": 5,
+      "name": "Ikigai",
+      "price": 200,
+      "BestSeller": true,
+      "category": "tablet",
+      "link": "https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
+      "discription": {
+        "Publisher": "Cornerstone",
+        "Language": "English"
       }
     },
     {
       "id": 10,
-      "productId":5,
-      "name":"Ikigai",
-      "price":200,
-      "category":"tablet",
-      "BestSeller":false,
-      "link":"https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
-      "discription":{
-        "Publisher":"Cornerstone",
-        "Language":"English"
+      "productId": 5,
+      "name": "Ikigai",
+      "price": 200,
+      "category": "tablet",
+      "BestSeller": false,
+      "link": "https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
+      "discription": {
+        "Publisher": "Cornerstone",
+        "Language": "English"
       }
     },
     {
       "id": 11,
-      "productId":6,
-      "name":"Ikigai",
-      "price":200,
-      "category":"Head_Phone",
-      "BestSeller":true,
-      "link":"https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
-      "discription":{
-        "Publisher":"Cornerstone",
-        "Language":"English"
+      "productId": 6,
+      "name": "Ikigai",
+      "price": 200,
+      "category": "Head_Phone",
+      "BestSeller": true,
+      "link": "https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
+      "discription": {
+        "Publisher": "Cornerstone",
+        "Language": "English"
       }
     },
     {
       "id": 12,
-      "productId":6,
-      "name":"Ikigai",
-      "price":200,
-      "category":"Head_Phone",
-      "BestSeller":false,
-      "link":"https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
-      "discription":{
-        "Publisher":"Cornerstone",
-        "Language":"English"
+      "productId": 6,
+      "name": "Ikigai",
+      "price": 200,
+      "category": "Head_Phone",
+      "BestSeller": false,
+      "link": "https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
+      "discription": {
+        "Publisher": "Cornerstone",
+        "Language": "English"
       }
     }
   ],
-
-  "carousel":[
+  "carousel": [
     {
-      "id":1,
+      "id": 1,
       "link": "https://csp-clients.s3.amazonaws.com/jjpoolandspa/wp-content/uploads/2015/11/1920x480-water-droplets.jpg",
-      "img" : "https://images.samsung.com/is/image/samsung/p6pim/in/sm-m536bzbeinu/gallery/in-galaxy-m53-5g-sm-m536-sm-m536bzbeinu-thumb-532180475?$320_320_PNG$"
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-m536bzbeinu/gallery/in-galaxy-m53-5g-sm-m536-sm-m536bzbeinu-thumb-532180475?$320_320_PNG$"
     },
     {
-      "id":2,
+      "id": 2,
       "link": "https://footballqueensland.com.au/wp-content/uploads/2020/02/181231-FQ-New-Brand-NEWS-Web-Banner-1920x480-1.jpg",
       "img": "https://dlcdnwebimgs.asus.com/gain/49401162-3a01-44f7-bf95-3ac7caee7d04/"
     },
     {
-      "id":3,
+      "id": 3,
       "link": "https://energycentral.com/system/files/styles/original_webp/private/ece/nodes/91/ecj-hero-image-1920x480.jpg?itok=kNHSxwWY",
-      "img" : "https://gumlet.assettype.com/freepressjournal/2021-07/e572e1bc-67bf-45fd-b267-866b1e8b9bed/Timex.png"
+      "img": "https://gumlet.assettype.com/freepressjournal/2021-07/e572e1bc-67bf-45fd-b267-866b1e8b9bed/Timex.png"
     }
   ],
-  "ProductReview":[
+  "ProductReview": [
     {
-      "id":1,
+      "id": 1,
       "productDetailId": 3,
       "review": "Good",
-      "rating":3,
-      "userName":"Madhur"
+      "rating": 3,
+      "userName": "Madhur"
     },
     {
-      "id":2,
+      "id": 2,
       "productDetailId": 4,
       "review": "Good",
-      "rating":3,
-      "userName":"Madhur"
+      "rating": 3,
+      "userName": "Madhur"
     },
     {
-      "id":3,
+      "id": 3,
       "productDetailId": 1,
       "review": "Good",
-      "rating":3,
-      "userName":"Madhur"
+      "rating": 3,
+      "userName": "Madhur"
     },
     {
-      "id":4,
+      "id": 4,
       "productDetailId": 3,
       "review": "Awesome Product",
-      "rating":5,
-      "userName":"Madhur"
+      "rating": 5,
+      "userName": "Madhur"
     },
     {
-      "id":5,
+      "id": 5,
       "productDetailId": 3,
       "review": "Bad Mobile",
-      "rating":1,
-      "userName":"Madhur"
+      "rating": 1,
+      "userName": "Madhur"
     },
     {
-      "id":6,
+      "id": 6,
       "productDetailId": 5,
       "review": "Good",
-      "rating":3,
-      "userName":"Madhur"
+      "rating": 3,
+      "userName": "Madhur"
     },
     {
-      "id":7,
+      "id": 7,
       "productDetailId": 1,
       "review": "Good",
-      "rating":3,
-      "userName":"Madhur"
+      "rating": 3,
+      "userName": "Madhur"
+    }
+  ],
+  "logInDetails": [
+    {
+      "id": 1,
+      "userName": "Madhur Kamble",
+      "eamil": "madhur@gamil.com",
+      "Password": "Pass@1234"
+    },
+    {
+      "userName": "Pranali",
+      "Password": "Passss",
+      "email": "Email@gmail.com",
+      "id": 2
+    }
+  ],
+  "Cart": [
+    {
+      "id": 1,
+      "addedProduct": [
+        {"id": 2}
+      ]
+    }
+  ],
+  "PurchecItem": [
+    {
+      "id": 1,
+      "PurchecItem": [
+        {"id": 1}
+      ]
     }
   ]
 }
