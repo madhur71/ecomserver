@@ -286,21 +286,5 @@
       "email": "Email@gmail.com",
       "id": 2
     }
-  ],
-  "Cart": [
-    {
-      "id": 1,
-      "addedProduct": [
-        {"id": 2}
-      ]
-    }
-  ],
-  "PurchecItem": [
-    {
-      "id": 1,
-      "PurchecItem": [
-        {"id": 1}
-      ]
-    }
   ]
 }
