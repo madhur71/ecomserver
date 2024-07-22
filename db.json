@@ -50,7 +50,7 @@
       "name": "Atomic Habits",
       "price": 300,
       "category": "Books",
-      "link": "https://www.ajayonlinestall.com/wp-content/uploads/2021/02/9781847941831.png",
+      "link": "https://5.imimg.com/data5/SELLER/Default/2022/10/GB/ES/KH/162021231/atomic-habits-business-book.jpg",
       "BestSeller": true,
       "discription": {
         "author": "James Clear",
@@ -88,7 +88,7 @@
       "id": 4,
       "productId": 2,
       "name": "Redmi Note 13 Pro",
-      "price": 200,
+      "price": 12999,
       "category": "Mobile",
       "BestSeller": false,
       "link": "https://i.gadgets360cdn.com/products/large/redminote13pro-800x800-1695378563.png",
@@ -103,10 +103,10 @@
       "id": 5,
       "productId": 3,
       "name": "Dell Vostro 3405",
-      "price": 300,
+      "price": 35999,
       "category": "Laptop",
       "BestSeller": true,
-      "link": "https://cdn.lowestrate.in/20220829143454/71kOOXPupBL._SL1500_.jpg",
+      "link": "https://rukminim2.flixcart.com/image/850/1000/kirr24w0/computer/d/b/g/dell-na-thin-and-light-laptop-original-imafyhm5f4xpcybn.jpeg?q=90&crop=false",
       "discription": {
         "Processor": "AMD Ryzen 5",
         "OS": "Windows 7"
@@ -116,7 +116,7 @@
       "id": 6,
       "productId": 3,
       "name": "HP 15S du2058TU",
-      "price": 200,
+      "price": 37998,
       "category": "Laptop",
       "BestSeller": false,
       "link": "https://www.digitaldreamsjaipur.com/wp-content/uploads/2020/07/hp-laptop-15s-du2058tu-1.jpg",
@@ -129,79 +129,89 @@
     {
       "id": 7,
       "productId": 4,
-      "name": "Ikigai",
-      "price": 200,
+      "name": "Titan NS90086KM01",
+      "price": 8132,
       "category": "watch",
       "BestSeller": true,
-      "link": "https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
+      "link": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwf8d1f57c/images/Titan/Catalog/90086KM01J_1.jpg?sw=800&sh=800",
       "discription": {
-        "Publisher": "Cornerstone",
-        "Language": "English"
+        "Brand": "Titan Octane",
+        "Strap Material": "Stainless Steel",
+        "Strap Color":"Silver"
       }
     },
     {
       "id": 8,
       "productId": 4,
-      "name": "Ikigai",
-      "price": 200,
+      "name": "Casio Edifice-EFR-539D-1A2VUDF (EX190)",
+      "price": 10995,
       "category": "watch",
       "BestSeller": false,
-      "link": "https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
+      "link": "https://m.media-amazon.com/images/I/61o81olOLOL._SX679_.jpg",
       "discription": {
-        "Publisher": "Cornerstone",
-        "Language": "English"
+        "Brand": "Casio Edifice",
+        "Strap Material": "Stainless Steel",
+        "Strap Color":"Silver"
       }
     },
     {
       "id": 9,
       "productId": 5,
-      "name": "Ikigai",
-      "price": 200,
+      "name": "Xiaomi Pad 6",
+      "price": 24999,
       "BestSeller": true,
       "category": "tablet",
-      "link": "https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
+      "link": "https://m.media-amazon.com/images/I/415gV21fNCL._SX300_SY300_QL70_FMwebp_.jpg",
       "discription": {
-        "Publisher": "Cornerstone",
-        "Language": "English"
+        "Brand":	"Xiaomi",
+        "ROM"	: "128 GB",
+        "Screen Size":	"11 Inches",
+        "Operating System"	:"Android"
       }
     },
     {
       "id": 10,
       "productId": 5,
-      "name": "Ikigai",
-      "price": 200,
+      "name": "OnePlus Pad Go",
+      "price": 17999,
       "category": "tablet",
       "BestSeller": false,
-      "link": "https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
+      "link": "https://m.media-amazon.com/images/I/31V3lrjd9YL._SX300_SY300_QL70_FMwebp_.jpg",
       "discription": {
-        "Publisher": "Cornerstone",
-        "Language": "English"
+        "Brand":	"OnePlus",
+        "Model Name":	"OnePlus Pad GO",
+        "Memory Storage Capacity":	"128 GB",
+        "Screen Size"	:"28.85 Centimetres"
       }
     },
     {
       "id": 11,
       "productId": 6,
-      "name": "Ikigai",
-      "price": 200,
+      "name": "JBL Tune 770NC",
+      "price": 5998,
       "category": "Head_Phone",
       "BestSeller": true,
-      "link": "https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
+      "link": "https://m.media-amazon.com/images/I/31OWbLmhjRL._SX300_SY300_QL70_FMwebp_.jpg",
       "discription": {
-        "Publisher": "Cornerstone",
-        "Language": "English"
+        "Brand":	"JBL",
+        "Colour":	"Blue",
+        "Ear Placement": "Over Ear",	
+        "Headphones Jack": "wireless"	
       }
     },
     {
       "id": 12,
       "productId": 6,
-      "name": "Ikigai",
-      "price": 200,
+      "name": "boAt Nirvana 751",
+      "price": 3500,
       "category": "Head_Phone",
       "BestSeller": false,
-      "link": "https://cdn.shopify.com/s/files/1/0292/2958/0367/products/images_-_2020-07-23T164241.981_693a769f-a100-41d9-9255-044926efef3e_554x554.jpg?v=1610415000",
+      "link": "https://m.media-amazon.com/images/I/71ISIssoVFL._SX522_.jpg",
       "discription": {
-        "Publisher": "Cornerstone",
-        "Language": "English"
+        "Brand":	"boAt",
+        "Colour":	"Gray",
+        "Ear Placement": "Over Ear",	
+        "Noise Control Active" : "Noise Cancellation"
       }
     }
   ],
@@ -277,13 +287,13 @@
     {
       "id": 1,
       "userName": "Madhur Kamble",
-      "eamil": "madhur@gamil.com",
+      "eamil": "madhur@gmail.com",
       "Password": "Pass@1234"
     },
     {
-      "userName": "Pranali",
-      "Password": "Passss",
-      "email": "Email@gmail.com",
+      "userName": "Pranali Kamble",
+      "Password": "Password",
+      "email": "pranali@gmail.com",
       "id": 2
     }
   ]
